@@ -26,5 +26,5 @@ jobs:
 
       - uses: actions/upload-artifact@master
         with:
-          name: JSLeak
+          name: jsleak
           path: jsleak
